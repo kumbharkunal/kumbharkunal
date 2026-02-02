@@ -147,7 +147,7 @@
 ### 🏢 **Programmer Analyst Trainee — Napps**
 *November 2024 – October 2025 • Aonla, Bareilly (UP)*
 
-- ✅ Built and delivered SilverFoil – live food delivery app with order tracking & payment integration
+- ✅ Built SilverFoil – a live food delivery app with order tracking & payment integration
 - 📊 Developed admin dashboards for restaurant management, menu CRUD operations, and order analytics
 - 🎨 Implemented responsive UI using Tailwind CSS and optimized performance for mobile devices
 - 🔄 Worked closely with backend APIs, database schemas, and deployment processes
