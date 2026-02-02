@@ -43,7 +43,7 @@
 - 💼 Programmer Analyst at **Napps**, building production-grade web applications
 - 🎯 Experience developing **SaaS platforms, dashboards, and RBAC systems**
 - ⚡ Strong focus on **performance optimization, scalability, and security**
-- 🌱 Currently exploring **Microservices Architecture** and **System Design Patterns**
+- 🌱 Currently focused on improving backend development and scalable application design.**
 - 📍 Based in **Pune, India**
 
 ---
@@ -91,7 +91,7 @@
 - ✨ GitHub/Google OAuth authentication with webhook-triggered reviews
 - 🔄 Real-time WebSocket updates and in-app notifications
 - 💳 Stripe subscription billing with tiered pricing
-- ⚡ Scalable background processing using Redis for event handling
+- ⚡ Implemented Redis caching to optimize performance and reduce database queries.
 - 📊 Admin dashboard with analytics and user management
 
 **Tech Stack:** React, TypeScript, Node.js, Express, MongoDB, Redis, Clerk, Stripe, Docker
@@ -205,7 +205,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 ### 📬 Reach Out
 
-- 💼 **Open to:** Full Stack Developer roles, Freelance projects, Technical collaborations
+- 💼 **Open to:** Open to Frontend, Backend, and Full Stack Developer roles
 - 📧 **Email:** [kumbharkunaldaulat@gmail.com](mailto:kumbharkunaldaulat@gmail.com)
 - 💬 **Quick Chat:** [WhatsApp](https://wa.me/919067878078)
 - 🔗 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/kumbharkunal)
@@ -214,7 +214,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 <div align="center">
 
-### ⭐ If you find my work interesting, consider starring my repositories!
+### ⭐ If you think my skills could be a good fit, I’d love to connect and discuss opportunities.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kumbharkunal&color=blueviolet&style=for-the-badge)
 
